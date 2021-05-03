@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Heather! Nice to meet you 😊
+I use she/her pronouns!
+
+I value work that uplifts those in my community in an authentic and effective way. I look forward to combining my technical knowledge, problem solving skills, and leadership skills with my passion for music, education, and accessibility to level the playing field for whoever I can.
+
+
+
 
 <!--
 **shuheather/shuheather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ Currently working on...
+developing a database and interface to keep track of all of the media I consume. Think goodreads, but for more than just books- I want to use it to track things like movies, tv shows, and games as well! 👾
+
+### 🐌 Other Projects
+I created and maintain a twitter bot that tweets snail facts twice a day- give it a follow [@Snailfact](https://twitter.com/snailfact)!
